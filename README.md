@@ -53,8 +53,8 @@
 
 ```bash
 # 克隆仓库
-git clone https://github.com/magic-fss/github-repo-toolkit.git
-cd github-repo-toolkit
+git clone https://github.com/magic-fss/git-maintenance.git
+cd git-maintenance
 
 # 创建虚拟环境（可选但推荐）
 python -m venv venv
